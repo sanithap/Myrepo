@@ -23,7 +23,7 @@ if (!empty($_FILES) && $_POST['token'] == $verifyToken) {
 		move_uploaded_file($tempFile,$targetFile);
 		echo '1';
 	} else {
-		echo 'Invalid file type.';
+		echo 'sanitha';
 	}
 }
 ?>
