@@ -23,6 +23,8 @@ else:
 	header("Location: http://$host/$extra");
 endif;
 
+/*this is a test change*/
+
 ?>
 <!DOCTYPE html>
 
